@@ -10,7 +10,7 @@ namespace HelloJenkins
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Michael Simkin!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
